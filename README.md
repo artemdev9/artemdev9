@@ -67,23 +67,37 @@
 
 
 
-4) Pin 2–4 best repos. 
+ ## 🚀 Featured Projects
 
-# PROJECT NAME
+### Build an Interactive Dijkstra Pathfinding Tool with TypeScript + Canvas
+[Live Demo](LIVE_DEMO_URL) · [GitHub Repo](REPO_URL)
 
-> One-sentence value prop: *What it does* and *who it’s for*.
+> Drag two points on a grid and see the shortest **orthogonal** path computed in real-time with **Dijkstra’s algorithm**. Built in the browser with **TypeScript** and the **Canvas API**.
 
-![Demo GIF](assets/demo.gif) <!-- put a short 5–10s loop here -->
+<p>
+  <!-- Optional: add a short demo GIF -->
+  <img src="assets/dijkstra-demo.gif" alt="Dijkstra demo" width="600"/>
+</p>
 
-## ✨ Features
-- Feature A → outcome
-- Feature B → outcome
-- Tech: FastAPI • React • Postgres • Docker
+**Why it’s cool**
+- ⚡ Real-time path recalculation as you drag nodes  
+- 🧭 Solidifies understanding of Dijkstra mechanics  
+- 🧩 Prototype for grid-based layout/diagram engines
 
-## 🚀 Quickstart
-```bash
-git clone https://github.com/YOURUSERNAME/REPO.git
-cd REPO
-docker compose up --build
-# app on http://localhost:3000
+---
+
+### Onetweb — Built with Next.js
+**Empowering Your Ideas with Custom Web Solutions.**
+
+**Links:** [Website](https://YOUR_ONETWEB_URL) · [Instagram](https://YOUR_INSTAGRAM_URL) · [Contact](https://YOUR_CONTACT_URL)
+
+Key bits:
+- 🌗 **Toggle theme**, clean Next.js UI
+- 💬 Clear calls-to-action: *Contact Us*, *Chat with us*
+- 🛠️ Services: **Design → Develop → Maintain**
+- 🧾 Social proof & project gallery (thumbnails / reviews)
+
+> “Your new website is one click away!” — simple funnel to a free consultation.
+
+---
 
