@@ -57,4 +57,22 @@
 
 
 4) Pin 2–4 best repos. 
--->
+
+# PROJECT NAME
+
+> One-sentence value prop: *What it does* and *who it’s for*.
+
+![Demo GIF](assets/demo.gif) <!-- put a short 5–10s loop here -->
+
+## ✨ Features
+- Feature A → outcome
+- Feature B → outcome
+- Tech: FastAPI • React • Postgres • Docker
+
+## 🚀 Quickstart
+```bash
+git clone https://github.com/YOURUSERNAME/REPO.git
+cd REPO
+docker compose up --build
+# app on http://localhost:3000
+
