@@ -43,17 +43,28 @@
 ---
 
 <details>
-  <summary>GitHub Stats (click)</summary>
+  <summary>📊 GitHub Stats (click)</summary>
   <br/>
-  <!-- Replace artemdev9 below with your GitHub username -->
+
+  <!-- Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=artemdev9&show_icons=true" height="150" alt="stats"/>
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemdev9&layout=compact" height="150" alt="top-langs"/>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artemdev9&theme=default" height="150" alt="streak"/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artemdev9&theme=github-compact" alt="activity-graph"/>
 </details>
 
 <p align="center">
   <!-- Optional: enable the workflow, then replace artemdev9 -->
   <img src="https://raw.githubusercontent.com/artemdev9/artemdev9/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
+
+
 
 
 4) Pin 2–4 best repos. 
