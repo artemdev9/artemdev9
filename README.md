@@ -36,22 +36,36 @@ I’m Artem Dumchev, a full-stack and AI-focused engineer who builds interactive
 - 🗺️ READMEs that show **what / why / how** with GIFs + screenshots  
 
 ---
-
 ## 💻 Tech I Use
 <p>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
 </p>
 
----
-
-## 🎯 Recent Focus
-- 📊 Building the AI Visualizer MVP (XAI views, compare runs, exportable reports)  
-- 🧩 Regular interview prep (LeetCode + systems) and project polish  
-- 🤝 Networking lightly & shipping small improvements weekly  
+## 🧰 Tech I’ve Touched
+<p>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
+</p>
 
 ---
 
@@ -91,7 +105,7 @@ I’m Artem Dumchev, a full-stack and AI-focused engineer who builds interactive
 ## 🚀 Featured Projects
 
 ### Build an Interactive Dijkstra Pathfinding Tool with TypeScript + Canvas
-[Live Demo](LIVE_DEMO_URL) · [GitHub Repo](REPO_URL)
+[Live Demo](https://orthogonal-pathfinder-canvas-ts.vercel.app/) · [GitHub Repo](https://github.com/artemdev9/orthogonal-pathfinder-canvas-ts)
 
 Drag two points on a grid and see the shortest **orthogonal** path computed in real-time with **Dijkstra’s algorithm**. Built in the browser with **TypeScript** and the **Canvas API**.
 
@@ -108,7 +122,7 @@ Drag two points on a grid and see the shortest **orthogonal** path computed in r
 
 ### Onetweb — Built with Next.js
 **Empowering Your Ideas with Custom Web Solutions**  
-🌐 [onetweb.com](https://onetweb.com) · 📷 [Instagram](https://YOUR_INSTAGRAM_URL) · ✉️ [Contact](https://YOUR_CONTACT_URL)
+🌐 [onetweb.com](https://onetweb.com) · 📷 [Instagram](https://YOUR_INSTAGRAM_URL) 
 
 Key bits:  
 - 🌗 **Toggle theme**, clean Next.js UI  
