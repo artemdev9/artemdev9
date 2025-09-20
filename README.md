@@ -18,6 +18,8 @@
   • Stack: Python · FastAPI · React · Docker  
   **Demo** (add link) • **Code** (add repo)
 
+  
+
 ### How I work
 - ✅ Pragmatic: typed Python, linted/auto-formatted, small PRs
 - 🧪 Tests first where it matters; fixtures > mocks
@@ -43,19 +45,16 @@
 <details>
   <summary>GitHub Stats (click)</summary>
   <br/>
-  <!-- Replace YOURUSERNAME below with your GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true" height="150" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact" height="150" alt="top-langs"/>
+  <!-- Replace artemdev9 below with your GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=artemdev9&show_icons=true" height="150" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemdev9&layout=compact" height="150" alt="top-langs"/>
 </details>
 
 <p align="center">
-  <!-- Optional: enable the workflow, then replace YOURUSERNAME -->
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <!-- Optional: enable the workflow, then replace artemdev9 -->
+  <img src="https://raw.githubusercontent.com/artemdev9/artemdev9/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
-<!-- Quick setup notes (invisible): 
-1) Create repo named exactly your username (public). 
-2) Swap YOURUSERNAME in the two image URLs. 
-3) Add demo/code links for the AI Visualizer. 
+
 4) Pin 2–4 best repos. 
 -->
