@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://onetweb.com">Onetweb</a> • 
+  🌐 <a href="https://onetweb.co.uk">Onetweb</a> • 
   💼 <a href="https://www.linkedin.com/in/artdumchev/">LinkedIn</a> • 
   📧 <a href="mailto:dumchevartem@gmail.com">dumchevartem@gmail.com</a>
 </p>
