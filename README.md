@@ -123,7 +123,7 @@ Drag two points on a grid and see the shortest **orthogonal** path computed in r
 
 ### Onetweb — Built with Next.js
 **Empowering Your Ideas with Custom Web Solutions**  
-🌐 [onetweb.com](https://onetweb.co.uk) · 📷 [Instagram](https://www.instagram.com/onetweb) 
+🌐 [onetweb](https://onetweb.co.uk) · 📷 [instagram](https://www.instagram.com/onetweb) 
 
 Key bits:  
 - 🌗 **Toggle theme**, clean Next.js UI  
