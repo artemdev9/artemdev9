@@ -21,11 +21,13 @@ I’m Artem Dumchev, a full-stack and AI-focused engineer who builds interactive
 
 ---
 
-## 🛠️ What I’m Building
-- 🧠 **AI Visualizer** — interactive tool that turns model outputs into clear visual insights  
-  • Focus: explainability, side-by-side comparisons, shareable snapshots  
-  • Stack: Python · FastAPI · React · Docker  
-  **Demo** (add link) • **Code** (add repo)
+## 🚀 What I'm Building
+
+- 🌐 **SwiftlySite** — AI-powered portfolio builder for creators and developers  
+  • Generate stunning portfolio websites in 30 seconds  
+  • Stack: Next.js 14 · TypeScript · Tailwind CSS · Stripe · AI APIs  
+  [Visit SwiftlySite →](https://swiftlysite.com)
+
 
 ---
 
