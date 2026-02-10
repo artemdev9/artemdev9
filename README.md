@@ -23,6 +23,8 @@ I’m Artem Dumchev, a full-stack and AI-focused engineer who builds interactive
 
 ## 🚀 What I'm Building
 
+🥘 SusChef — AI-powered cooking companion to save money and reduce food waste. Builds recipes from your ingredients, tracks savings, and nudges you before food spoils. Live at suschef.co.
+
 - 🌐 **SwiftlySite** — AI-powered portfolio builder for creators and developers  
   • Generate stunning portfolio websites in 30 seconds  
   • Stack: Next.js 14 · TypeScript · Tailwind CSS · Stripe · AI APIs  
